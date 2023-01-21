@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "name": "Ivan",
+  "work": true,
+  "topics": [
+    "Fork",
+    "Knife",
+    "Glas",
+    "Spoon"
+  ],
+  "address": {
+    "city": "Berlin",
+    "country": "Germany"
+  }
+}
